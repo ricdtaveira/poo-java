@@ -14,14 +14,16 @@ public class Principal {
     public static void main (String args[]) {
         // Criar um Cliente
         Cliente C1 = new Cliente("Jose Maria");
-        // Criar tres obejtos de Produto
+        
+        // Criar tres objetos de Produto
         Produto p1 = new Produto("Farinha", "KG", 1.00f);
-        Produto p2 = new Produto("Feij√£o", "KG", 5.00f);
+        Produto p2 = new Produto("Feij„o", "KG", 5.00f);
         Produto p3 = new Produto("Macarrao", "PC", 3.50f);
+        
         // Cria uma Nota Fiscal
-
         NotaFiscal nf1 = new NotaFiscal();
-        // Assosciar a Nota ao Cliente
+        
+        // Associar a Nota ao Cliente
         nf1.setCliente(C1);
 
         // Armazena a data atual (pega a data do sistema)
@@ -30,12 +32,12 @@ public class Principal {
         // Armazena o numero da Nota Fiscal
         nf1.setNumero(123);
 
-        // cria tr√™s items de nota fiscal
-        // Item 1 sequnecial=1, 10 KG de Farinha
+        // cria trÍs items de nota fiscal
+        // Item 1 sequecial=1, 10 KG de Farinha
         ItemNotaFiscal itnf1 = new ItemNotaFiscal(1,10,p1);
-        // Item 2 sequnecial=2, 5 KG de Feij√£o
+        // Item 2 sequencial=2, 5 KG de Feij„o
         ItemNotaFiscal itnf2 = new ItemNotaFiscal(2,5,p2);
-        // Item 3 sequnecial=2, 6 pacotes de Macarr√£o
+        // Item 3 sequencial=3, 6 pacotes de Macarr„o
         ItemNotaFiscal itnf3 = new ItemNotaFiscal(3,6,p3);
 
         // Inserir os items na Nota Fiscal

@@ -63,7 +63,7 @@ public class NotaFiscal {
         float valorNota=0;
         // Pecorre a lista de itens
         for (ItemNotaFiscal itnf : this.items)  {
-            // vai somando ao valor da nota a quantidade de cada item * o valor
+            // vai somando a variavel valorNota a quantidade de cada item * o valor
             // do produto associado ao item
             valorNota = valorNota +
                         (itnf.getQuantidade() * itnf.getProduto().getValor());
