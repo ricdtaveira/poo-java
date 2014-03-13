@@ -1,0 +1,16 @@
+Todos os arquivos que compõe estes diretórios estão organizados na forma
+de pacotes.
+
+Pacotes são agrupamentos de arquivos fontes que melhoram o seu gerenciamento,
+pois reunem classes que estão relacionadas a um mesmo assunto ou dominio
+em uma aplicação.
+
+A organização em pacotes do curso java objetiva reunir exemplos de código
+que está relacionado a tópicos do curso.
+
+Os arquivos fontes java possuem extensão .java.
+
+Todas as classes java relacionadas a algum tópico possuem um método main.
+
+O método main é responsável por iniciar a execução de uma aplicação.
+

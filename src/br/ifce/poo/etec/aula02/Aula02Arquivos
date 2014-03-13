@@ -1,0 +1,33 @@
+Este conjunto de arquivos fontes compõe o pacote br.ifce.poo.etec.aula02
+que é composto por programas exemplos relacionados aos seguintes tópicos:
+ *   Identificadores;
+ *   Variaveis de valor e referencia;
+ *   Operadores;
+ *   Comandos de controle de execução que são:
+ *   - Comandos de Decisão:
+ *     + If-else;
+ *     + swith-case
+ *   - Comandos de Repetição:
+ *     + while;
+ *     + do-while;
+ *     + for
+ *   - Comandos de Desvios:
+ *     + break,
+ *     + continue,
+ *     + label:,
+ *     + return.
+*   - Comandos de Manipulaçao de Exceção:
+ *     + try-catch-finally, throw
+ *     + throw.
+
+01) Exemplo01: Definicao de variaveis em um metodo,sentenças de atribuição, entrada e saída de dados.
+02) Exemplo02: Operadores aritméticos
+03) Exemplo03: Operadores relacionais
+04) Exemplo04: Comando if-else
+05) Exemplo05: Comando switch e break;
+06) Exemplo06: Comando while juntamente com funcionalidades para criar e manipular strings
+07) Exemplo07:
+08) Exemplo08:
+09) Exemplo09:
+10) Exemplo10: Exemplo de utilização do comando return usando método static de
+               uma outra classe

@@ -1,0 +1,8 @@
+Este conjunto de arquivos fontes compõe o pacote br.ifce.etec.aula01
+que é composto por programas exemplos relacionados aos seguintes tópicos:
+01) Exemplo01: Uso do Método Main
+02) Exemplo02: Uso da classe Pessoa para exemplificar a visibilidade de
+               atributos e métodos.
+03) Pessoa:    Classe que exemplifica o conceito de encapsulamento e inicia
+               o conceito de visibilidade aplicado a tributos e métodos.
+
