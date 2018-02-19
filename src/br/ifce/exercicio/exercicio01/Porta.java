@@ -18,7 +18,7 @@ public class Porta {
         setAberta(true);
     }
 
-     public void fechar(boolean status) {
+    public void fechar(boolean status) {
         setAberta(false);
     }
 }
