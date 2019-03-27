@@ -1,10 +1,5 @@
-Programação Orientada a Objeto \
-Fontes Java 
+# poo-java
+In this repository are contained Java code that exemplify concepts of Object Oriented Programming.
 
-aula01 \
-conceitos: Classe, Objeto, Atributos, Métodos
-
-
-   
-
+# References
 
