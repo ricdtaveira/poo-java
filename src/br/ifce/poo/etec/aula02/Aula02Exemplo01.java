@@ -34,7 +34,7 @@ public class Aula02Exemplo01 {
 
         System.out.printf( "A Soma eh %d\n", soma ); // mostra soma
 
-     } // fim do mÃ©todo main
+     } // fim do método main
 
 
 }
